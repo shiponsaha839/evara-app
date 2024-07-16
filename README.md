@@ -42,12 +42,12 @@ Copy code
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_secret_key
-Run the application
+
+**Run the application**
 
 bash
 Copy code
 npm run dev
-The application will be available at http://localhost:3000.
 
 **Usage**
 Once the application is running, you can:
