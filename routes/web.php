@@ -187,11 +187,4 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified',
     Route::resource('about-us-form', AboutUsController::class);
     Route::resource('contact-us-form', ContactUsController::class);
 
-
-
-
-
-
-
-
 });
